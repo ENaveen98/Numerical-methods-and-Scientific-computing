@@ -15,4 +15,5 @@ This repository consists of python scripts for some of the robust numerical meth
 #### me16b077_1 => Finite Precision Numbers and Recurrence Relations
 - This section is dedicated to the very fundamentals of how numbers are manipulated in machines where we cannot represent a number upto infinite precision. 
 - Hence the name Finite Precision Numbers and the corresponding machine in which it operates as Finite Precision Machines.
+- Analysing the properties of FPNs is quite essential especially during Recurrence relations where given an initial starting point the recurrence may give extremely erroneous values towards larger iteration.
 
