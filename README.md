@@ -12,7 +12,7 @@ This repository consists of python scripts for some of the robust numerical meth
 8. Stochastic Methods
 
 ## File Descriptions
-me16b077_1 => Finite Precision Numbers and Recurrence Relations
+## me16b077_1 => Finite Precision Numbers and Recurrence Relations
 - This section is dedicated to the very fundamentals of how numbers are manipulated in machines where we cannot represent a number upto infinite precision. 
 - Hence the name Finite Precision Numbers and the corresponding machine in which it operates as Finite Precision Machines.
 
