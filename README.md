@@ -17,3 +17,6 @@ This repository consists of python scripts for some of the robust numerical meth
 - Hence the name Finite Precision Numbers and the corresponding machine in which it operates as Finite Precision Machines.
 - Analysing the properties of FPNs is quite essential especially during Recurrence relations where given an initial starting point the recurrence may give extremely erroneous values towards larger iteration.
 
+#### me16b077_2 => Lagrange Polynomials, Interpolation, Error Analysis, Condition Number
+- 
+
